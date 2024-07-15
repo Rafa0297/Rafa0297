@@ -5,7 +5,7 @@
 **About me**..
 
 - 🔭 I’m currently immersed in the **ISDI coders fullstack web development Bootcamp.**
-- 🌱 I’m currently learning HTML, CSS, Javascript, Git and Github.
+- 🌱 I’m learning HTML, CSS, Javascript, Git and Github.
 - ⚡ Fun fact: I love to cook and bike rides in the afternoon 🚴‍♂️
 - 📫 How to reach me:
 

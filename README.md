@@ -4,9 +4,12 @@
 
 **About me**..
 
-- 🔭 I recently finished the **ISDI Coders Fullstack Web Development Bootcamp.**
-- 🌱 I’m learning HTML, CSS, Javascript, Git and Github.
-- ⚡ Fun fact: I love to cook and bike rides in the afternoon 🚴‍♂️
+🔭 I have completed the ISDI Coders Full-Stack Web Development Bootcamp, which provided me with a solid foundation in modern web technologies.
+
+🌱 I’m now focusing on enhancing my skills in advanced JavaScript frameworks like React and NextJS to provide totally functional and scallable solutions.
+
+⚡ Fun fact: I enjoy experimenting with new recipes in the kitchen and going for refreshing bike rides in the afternoon.
+
 - 📫 How to reach me:
 
     [![linkedin](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/rinfante91/) [![twitter](https://img.shields.io/badge/Twitter-Profile-lightblue)](https://x.com/rafaeduar46)
